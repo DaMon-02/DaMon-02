@@ -8,7 +8,7 @@
   - [osTicket: Ticket Lifecycle Examples](https://github.com/DaMon-02/ticket-lifecycle)
 - Microsoft Azure
 - [VPN Setup and Usage (Proton VPN)](http://github.com/DaMon-02/protonvpn)
-- [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github/DaMon-02/ngsandproto)
+- [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github/DaMon-02/ngs-proto)
 <h2>🤳Connect with me:</h2>
 
 
