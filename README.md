@@ -7,7 +7,6 @@
   - [osTicket: Post-Installation Configuration](https://github.com/DaMon-02/post-install-config)
   - [osTicket: Ticket Lifecycle Examples](https://github.com/DaMon-02/ticket-lifecycle)
 - Microsoft Azure
-- [VPN Setup and Usage (Proton VPN)](http://github.com/DaMon-02/protonvpn)
 - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/DaMon-02/nsg-proto)
 <h2>🤳Connect with me:</h2>
 
